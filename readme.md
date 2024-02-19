@@ -6,3 +6,6 @@ Play here:
 https://tlockey.github.io/musical-boxes/
 
 <img width="200" alt="Screenshot" src="https://github.com/tlockey/musical-boxes/assets/84677774/dd314272-7853-4a8c-9519-86fd6bfdeab6">
+
+Roadmap:
+- Gamification
